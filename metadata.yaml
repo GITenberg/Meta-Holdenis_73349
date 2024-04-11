@@ -1,0 +1,34 @@
+_repo: Meta-Holdenis_73349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cherbuliez, Victor
+    alias: Cherbuliez, Charles Victor
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '927'
+    url: http://www.gutenberg.org/2009/agents/927
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Victor_Cherbuliez
+    - https://en.wikipedia.org/wiki/Victor_Cherbuliez
+description: ''
+gutenberg_issued: '2024-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73349'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k64627v
+pgterms:marc905: 20230611113054cherbuliez
+pgterms:marc906: '1899'
+pgterms:marc907: fr
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bHachette, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Meta Holdenis
+url: http://www.gutenberg.org/ebooks/73349
