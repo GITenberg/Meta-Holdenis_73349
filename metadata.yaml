@@ -1,5 +1,8 @@
 _repo: Meta-Holdenis_73349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73349-h/images/cover.jpg
 creator:
   author:
     agent_name: Cherbuliez, Victor
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Victor_Cherbuliez
     - https://en.wikipedia.org/wiki/Victor_Cherbuliez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73349#Meta-Holdenis
 gutenberg_issued: '2024-04-07'
 gutenberg_type: Text
 identifiers:
